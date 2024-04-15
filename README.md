@@ -16,7 +16,7 @@ http://localhost:3000/
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd EazyBuy
 ```
 
 Install dependencies
